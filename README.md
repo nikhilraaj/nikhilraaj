@@ -1,5 +1,5 @@
 
-Hello! I'm Nikhil Raj, a passionate 5th-semester (B.tech) Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. I am driven by a curiosity for unraveling insights from complex datasets.
+Hello! I'm Nikhil Raj, a passionate 6th-semester (B.tech) Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. I am driven by a curiosity for unraveling insights from complex datasets.
 
 Proficient in Python programming, I excel in the art of data analysis. My expertise extends across various aspects, including data cleaning, statistical analysis, and visualization using Matplotlib and Pandas. I possess a keen understanding of database management, leveraging SQL for efficient data extraction. Additionally, I have a solid grasp of Data Structure techniques, and my knowledge extends to big data technologies such as Hadoop and Spark, enabling me to handle large-scale datasets with efficiency.
 
@@ -9,7 +9,7 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 * 👨‍💻 I'm currently engaged in expanding my knowledge base.
 * 👯 I’m open to collaborating on Open-Source Projects.
 * 💬 Feel free to reach out for discussions on Data analysis.
-* 📄 Check out my resume [here](https://drive.google.com/file/d/1N45BsZ_cPIRB128hu4gcsM4-4KL0Y41I/view?usp=sharing).
+* 📄 Check out my resume [here](https://drive.google.com/file/d/1ybNzyc1K4SJIbPjWq-wd_9kTddoS2RIu/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
