@@ -9,7 +9,7 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 * 👨‍💻 I'm currently engaged in expanding my knowledge base.
 * 👯 I’m open to collaborating on Open-Source Projects.
 * 💬 Feel free to reach out for discussions on Data analysis.
-* 📄 Check out my resume [here](https://drive.google.com/file/d/1ybNzyc1K4SJIbPjWq-wd_9kTddoS2RIu/view?usp=sharing).
+* 📄 Check out my resume [here](https://drive.google.com/file/d/17lzojgrvy1XQUUSXYwpclkitGfWcdkVI/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
