@@ -1,7 +1,11 @@
 
-Hello! I'm Nikhil Raj, a passionate 8th-semester (B.tech) Computer Science Engineering student specializing in Data Science at Maharishi Markandeshwar (Deemed to be University) in Ambala, India. I am driven by a curiosity for unraveling insights from complex datasets.
+Hello! I'm Nikhil Raj 👋
 
-Proficient in Python programming, I excel in the art of data analysis. My expertise extends across various aspects, including data cleaning, statistical analysis, and visualization using Matplotlib and Pandas. I possess a keen understanding of database management, leveraging SQL for efficient data extraction. Additionally, I have a solid grasp of Data Structure techniques, and my knowledge extends to big data technologies such as Hadoop and Spark, enabling me to handle large-scale datasets with efficiency.
+I am a passionate 8th-semester B.Tech Computer Science Engineering student (Data Science specialization) at Maharishi Markandeshwar (Deemed to be University), Ambala, India. I enjoy working at the intersection of data, backend systems, and modern web technologies.
+
+My interests lie in Data Engineering and Full Stack Development, where I focus on building scalable backend systems, efficient databases, and data-driven applications.
+
+I have experience working with Python, SQL, and JavaScript, and I enjoy designing RESTful APIs, optimizing database queries, and developing responsive web applications. I also work with data analysis, data cleaning, and visualization using Pandas and Matplotlib, and have exposure to big data technologies such as Hadoop and Spark for handling large-scale datasets.
 
 
 ### Personal Endeavors
@@ -9,7 +13,7 @@ Proficient in Python programming, I excel in the art of data analysis. My expert
 * 👨‍💻 I'm currently engaged in expanding my knowledge base.
 * 👯 I’m open to collaborating on Open-Source Projects.
 * 💬 Feel free to reach out for discussions on Data analysis.
-* 📄 Check out my resume [here](https://drive.google.com/file/d/1v2NBLh4NozJTZUSlQPcmXuz5axelrkZA/view?usp=sharing).
+* 📄 Check out my resume [here](https://drive.google.com/file/d/1M3Dj4_4TtHoh5o9o57NmThGZTN-Q0wcC/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
